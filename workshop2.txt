@@ -1,0 +1,10 @@
+Title: Web Development using ReactJS: Build Modern Web Applications
+
+Date and Time: July 10th, 2023; 9:00 AM to 5:00 PM
+
+Location: Jaypee Institute of Information Technology, Noida, India
+
+Objective: To teach participants how to build modern web applications using ReactJS, a popular JavaScript library for building user interfaces.
+
+Workshop Overview:
+The workshop will be a hands-on session, where participants will learn to build a web application using ReactJS. The workshop will cover the basics of ReactJS, including components, props, state, and lifecycle methods. Participants will also learn how to integrate ReactJS with other technologies such as Redux, Node.js, and Webpack.

@@ -1,0 +1,10 @@
+Title: Introduction to Python Programming: Fundamentals and Applications
+
+Date and Time: September 20th, 2023; 9:00 AM to 5:00 PM
+
+Location: Jaypee Institute of Information Technology, Noida, India
+
+Objective: To provide a hands-on introduction to Python programming, including its syntax, data types, control structures, and functions.
+
+Workshop Overview:
+The workshop will be a beginner-level session, where participants will learn the basics of Python programming language. The workshop will cover the basics of Python syntax, data types, control structures, and functions. Participants will also learn how to apply Python programming in various applications such as data analysis, web development, and machine learning.

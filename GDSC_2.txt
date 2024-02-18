@@ -1,0 +1,6 @@
+CSS Smackdown: This is a web design competition organized by GDSC JIIT 62. It will take place on March 19, 2023, at 9:00 am in venue CL02. Participants will have three hours to replicate a given web design using only HTML, CSS, and JavaScript. The competition is open to all years, and the winners will receive cash prizes worth ₹2000.
+Eventname : CSS Smackdown
+Date: March 19, 2023
+Time: 9:00 am
+Venue: CL02
+Link: https://forms.gle/NZ44qgRSkbxy6CWv8

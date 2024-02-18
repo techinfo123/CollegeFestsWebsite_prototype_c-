@@ -1,0 +1,13 @@
+Event: AI ML Seminar 2023
+
+Date: August 19-20, 2023
+
+Venue: The Lalit, New Delhi, India
+
+Outline:
+-Introduction to AI and ML
+-Applications of AI and ML in various fields
+-Types of Machine Learning: Supervised, Unsupervised, Reinforcement Learning
+-Deep Learning and Neural Networks
+-Hands-on session on implementing an ML algorithm
+-Q&A session

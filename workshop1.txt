@@ -1,0 +1,10 @@
+Title: Introduction to Machine Learning: From Theory to Practice
+
+Date and Time: June 15th, 2023; 9:00 AM to 5:00 PM
+
+Location: Jaypee Institute of Information Technology, Noida, India
+
+Objective: To introduce the fundamentals of machine learning, the different types of machine learning algorithms, and their practical applications in various fields.
+
+Workshop Overview:
+The workshop will be divided into two main parts: theory and practice. In the theory part, participants will learn about the basics of machine learning, including supervised and unsupervised learning, regression and classification, decision trees, and neural networks. In the practice part, participants will work on a real-world case study to apply their knowledge and build a machine learning model.

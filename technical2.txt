@@ -1,0 +1,13 @@
+Event: Cybersecurity and Blockchain Seminar 2023
+
+Date: November 14-15, 2023
+
+Venue: The Westin Pune Koregaon Park, Pune, India
+
+Outline:
+-Overview of Cybersecurity and Blockchain technology
+-Blockchain consensus mechanisms and cryptography
+-Applications of Blockchain technology in Cybersecurity
+-Blockchain-based authentication and access control
+-Case studies and use cases in Cybersecurity
+-Q&A session

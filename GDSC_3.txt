@@ -1,0 +1,6 @@
+FLUTTER FORWARD  
+Learn how to develop dynamic mobile apps and add a popular skill to your résumé! In this workshop on Flutter and Firebase, you'll get an overview of both tools and learn how to set up your Flutter environment, create a Firebase project with authentication, and build a simple To-do app. Don't miss this opportunity to develop your first Flutter app! 
+Date: March 13-15, 2023
+Time: 5:30 pm onwards
+Venue: CL-1
+RSVP link: shorturl.at/pyBS1

@@ -1,0 +1,25 @@
+JIIT Robotics Challenge
+
+Date and Time: TBD (to be determined)
+
+Location: Jaypee Institute of Information Technology, Noida, India
+
+Objective: To showcase the skills and abilities of robotics enthusiasts, and to encourage creativity and innovation in the field of robotics.
+
+Tasks:
+
+Task 1: Maze Navigation and Object Collection (as described in the previous answer)
+Task 2: Obstacle Course Challenge - In this task, the robot has to navigate through a series of obstacles such as ramps, stairs, and narrow passages within a specified time. The robot must avoid touching or knocking down any of the obstacles.
+Rules and Regulations:
+
+The competition is open to individuals or teams with a maximum of 4 members per team.
+The robot must be autonomous and must not be controlled by any external device such as a remote control or a laptop.
+Participants can use any programming language, hardware, and sensors for building the robot.
+The robot must not exceed a maximum size of 30cm x 30cm x 30cm and must weigh less than 5kg.
+Participants can bring their own equipment and tools for building and testing their robots.
+The judges' decision will be final and binding.
+Scoring and Judging:
+
+The teams will be scored based on the time taken to complete the tasks, the number of objects collected, the number of obstacles successfully navigated, and the accuracy of the RFID tag scanning.
+Points will be deducted for hitting obstacles, not completing the tasks within the specified time, and any rule violations.
+The judges will evaluate the robots based on design, innovation, and overall performance.

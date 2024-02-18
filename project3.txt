@@ -1,0 +1,11 @@
+Event:Project Expo
+
+Date: August 19-20, 2023
+
+Venue: The Lalit, New Delhi, India
+
+Outline:
+Project Expo is an event organized by various engineering 
+colleges across India where students showcase their final 
+year projects in front of industry experts and potential 
+employers.

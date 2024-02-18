@@ -1,0 +1,14 @@
+Event: IoT and Smart Cities Seminar 2023
+
+Date: November 15-16, 2023
+
+Venue: Taj Palace, New Delhi, India
+
+Outline:
+-Introduction to IoT and Smart Cities
+-IoT architecture and protocols
+-Smart sensors and actuators
+-IoT applications in Smart Cities
+-Challenges and opportunities in implementing IoT in Smart Cities
+-Case studies and use cases in Smart Cities
+-Q&A session

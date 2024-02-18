@@ -1,0 +1,5 @@
+Build a basic chassis within a given time limit and compete in a checkpoint race.
+Event Name: Bob-the-Builder
+Date: 18th March 2023
+Time: 11am-5pm
+Venue: Atrium

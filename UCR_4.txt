@@ -1,0 +1,5 @@
+Event Name: Manual Robotics Event
+Date: 17th October 2022
+Time: N/A
+Venue: N/A
+Description: A chance to deep dive into robotics by creating the core of it yourself.

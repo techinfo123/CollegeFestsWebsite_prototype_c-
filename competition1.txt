@@ -1,0 +1,11 @@
+Competition Name: "Hackathon 2023"
+Date: August 19-20, 2023
+Time: 9:00 AM - 6:00 PM
+Venue: JIIT Noida campus, C-62, Sector-62, Noida, UP - 201307
+Organizers: JIIT Coding Club and JIIT Tech Society
+Participants: Undergraduate and graduate students from JIIT and other universities
+Competition Description: Hackathon 2023 is a 24-hour coding competition that challenges participants to develop innovative software applications to solve real-world problems.
+ Participants will have access to mentors and industry experts who will guide them throughout the competition. The competition will cover a wide range of technology domains, 
+ including machine learning, data science, blockchain, and mobile application development.
+Prize: The winning team will receive a cash prize of Rs. 50,000, along with an opportunity to showcase their project at the JIIT Tech Fest 2023.
+ The second and third runner-up teams will receive cash prizes of Rs. 30,000 and Rs. 20,000, respectively.
